@@ -23,16 +23,16 @@ The design of the website is based on the following color scheme:
 Below are some previews of the different sections of the website:
 
 1. **Hero Section**
-   ![Hero Section](images/hero-section.png)
+   ![1](https://github.com/user-attachments/assets/145e560a-425d-4ec6-bcea-3f5430515536)
 
 2. **Skills**
-   ![Skills](images/skills-section.png)
+   ![2](https://github.com/user-attachments/assets/c96d8234-daeb-4e0d-93fe-a751bd1a3610)
 
 3. **Testimonial**
-   ![Testimonial](images/testimonial-section.png)
+   ![3](https://github.com/user-attachments/assets/ec0dc66a-466b-4d85-a400-0c8bffaf044c)
 
 4. **Contact**
-   ![Contact](images/contact-section.png)
+   ![4](https://github.com/user-attachments/assets/ab577ecd-ff4f-40be-95ef-945fa5f3b921)
 
 ## How to View
 Clone the repository and open the `index.html` file in your browser to view the project locally:
