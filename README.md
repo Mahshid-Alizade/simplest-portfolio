@@ -37,6 +37,6 @@ Below are some previews of the different sections of the website:
 ## How to View
 Clone the repository and open the `index.html` file in your browser to view the project locally:
 
-git clone https://github.com/yourusername/simplest-portfolio.git
-cd simplest-portfolio
-open index.html
+git clone https://github.com/yourusername/simplest-portfolio.git  
+cd simplest-portfolio  
+open index.html  
